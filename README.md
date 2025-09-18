@@ -8,9 +8,8 @@ Prices are updated regularly to provide the most accurate $/GB metrics for PC bu
 ---
 
 ## Contents
-- `ddr4-ram-deals.json` — Latest DDR4 RAM deals, including kit sizes and $/GB pricing.
-- `ddr5-ram-deals.json` — Latest DDR5 RAM deals, desktop and laptop variants.
-- `historical/` — Archived snapshots of RAM pricing trends over time.
+- `current-ram-deals.json` — Today's RAM Deals.
+- `historical-ram-deals-data/` — Archived snapshots of RAM pricing trends over time.
 
 ---
 
